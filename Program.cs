@@ -1,4 +1,4 @@
-//Changes 345 and new
+//Changes 345 and
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
